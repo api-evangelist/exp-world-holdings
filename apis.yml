@@ -34,7 +34,7 @@ accessModel:
   - {url: 'https://www.expworldholdings.com', status: 301, note: 'declared website redirects to https://www.agnt.inc:443/ — a different registrable domain (expworldholdings.com -> agnt.inc), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/exp-world-holdings.png
 tags:
-  - Real-Estate
+  - Real Estate
   - Brokerage
   - PropTech
   - Cloud Workspace
@@ -45,6 +45,7 @@ tags_raw:
   - PropTech
   - Cloud Workspace
   - Fortune 500
+  - Real-Estate
 url: >-
   https://raw.githubusercontent.com/api-evangelist/exp-world-holdings/refs/heads/main/apis.yml
 created: '2026-05-04'
