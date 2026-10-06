@@ -49,9 +49,11 @@ tags_raw:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/exp-world-holdings/refs/heads/main/apis.yml
 created: '2026-05-04'
-modified: '2026-05-04'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 common:
+  - url: https://www.agnt.inc:443/news
+    type: Blog
   - type: DomainSecurity
     url: security/exp-world-holdings-domain-security.yml
   - type: Website
